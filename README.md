@@ -13,8 +13,8 @@ TYBSc Computer Science – Semester V practical record.
 7. IP Security (IPSec) Configuration
 8. Firewall Configuration and Rule-based Filtering
 
-## File
+## Practical record
 
-The original practical record is available as `INS-PRACTICAL-2025-26.pdf` in this repository.
+The original 22-page practical PDF is intended to be stored here as `INS-PRACTICAL-2025-26.pdf`. The PDF upload is still pending.
 
 > This repository contains an academic practical record. Review code and configuration steps before using them in a real environment.
